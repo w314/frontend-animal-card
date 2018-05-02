@@ -1,0 +1,35 @@
+/* add your CSS here */
+body {
+  width: 342px;
+}
+.card {
+  border: 1px groove;
+  border-color: maroon;
+  padding: 10px 20px 20px 20px;
+  background: whitesmoke;
+  color: darkslategray;
+  box-shadow: inset 0 0 10px maroon;
+  border-radius: 10px;
+}
+
+.animal-picture {
+  width: 300px;
+}
+
+.animal-info {
+  border: 1px solid;
+  border-color: maroon;
+  padding: 5px 10px 5px 10px;
+  margin-top:  15px;
+  border-radius: 10px;
+}
+
+.list-items {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.description {
+  text-align: justify;
+}
