@@ -18,7 +18,8 @@
     "url": "https://github.com/w314/frontend-animal-card/issues"
   },
   "homepage": "https://github.com/w314/frontend-animal-card#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "lite-server": "^2.5.4"
   }
 }
