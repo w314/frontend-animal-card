@@ -18,7 +18,11 @@
     "url": "https://github.com/w314/frontend-animal-card/issues"
   },
   "homepage": "https://github.com/w314/frontend-animal-card#readme",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  },
   "devDependencies": {
     "lite-server": "^2.5.4"
   }
